@@ -8,8 +8,8 @@ body{
 }
 
 .btn{
-    width : 200px;
-    height: 200px;
+    width : 150px;
+    height: 150px;
     border-radius: 20%;
     border : 10% solid black;
     margin: 1.5rem;
@@ -17,21 +17,25 @@ body{
 
 
 .green{
-    background-color: green;
+    background-color: rgb(53, 192, 53);
 }
 
 .yellow{
-    background-color: yellow;
+    background-color: rgb(196, 196, 43);
 }
 
 .red{
-    background-color: red;
+    background-color: rgb(180, 41, 41);
 }
 
 .blue{
-    background-color: blue;
+    background-color: rgb(43, 43, 177);
 }
 
 .flash{
+    background-color: black;
+}
+
+.userFlash{
     background-color: white;
 }
