@@ -3,7 +3,7 @@ let btns = document.querySelectorAll(".btn");
 let body = document.querySelector('body')
 let gameSeq = [];
 let userSeq = [];
-let btnColors = ["green","red", "yellow","blue"]
+let btnColors = ["purple","red", "yellow","blue"]
 
 let level=0;
 let game = false;
